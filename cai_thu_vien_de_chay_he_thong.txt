@@ -1,1 +1,1 @@
-from gtts import gtts
+pip install gtts
