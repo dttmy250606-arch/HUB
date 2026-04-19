@@ -1,4 +1,3 @@
-pip install gtts
 import streamlit as st
 import time
 from gtts import gTTS
